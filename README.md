@@ -1,10 +1,13 @@
-# devops-project-manifest
-We build DevOps for application from scratch
-
 # TL'DR
-
+We build DevOps for application from scratch
 # Techstack
-- TBD
+- Language: NodeJs
+- Cloud : GCP
+- Infrastructure as code: Terraform
+- CI/CD: Jenkins, GitHub action
+- Monitoring: Grafana, Prometheus, Loki
+- Container: Docker, Kubernetes
+
 # Requests:
 
-- TBD
+1. Init infrastucture ([task](https://github.com/devopsway/devops-project-manifest/issues/1))
