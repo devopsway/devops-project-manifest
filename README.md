@@ -11,3 +11,4 @@ We build DevOps for application from scratch
 # Requests:
 
 1. Init infrastucture ([task](https://github.com/devopsway/devops-project-manifest/issues/1))
+2. Develop application ([task](https://github.com/devopsway/devops-project-manifest/issues/5))
