@@ -12,3 +12,4 @@ We build DevOps for application from scratch
 
 1. Init infrastucture ([task](https://github.com/devopsway/devops-project-manifest/issues/1))
 2. Develop application ([task](https://github.com/devopsway/devops-project-manifest/issues/5))
+3. Install Jenkins ([task](https://github.com/devopsway/devops-project-manifest/issues/3))
